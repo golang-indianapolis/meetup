@@ -11,8 +11,12 @@ Repository with links to meetup presentations and organization docs
   - Recruiter?
 - [ ] Validation of parking after hours
 - [ ] Lightning talks
-  - [ ] adam schwartz - @anschwa on slack - indy hackers 
-    - `present` tool or 
-    - using `replace` directive in modules
+  - [ ] Adam Schwartz - @anschwa on slack - indy hackers 
+    - `present` tool
+    - `replace` directive in modules
+  - [ ] Steve McQuaid
+    - Dockerizing best practices for Golang
+    - How to expose your library quickly (API, CLI, Operator)
+    - Baby Got Back...ends - DDD intro/Project layout
 - [ ] Get Name Tags
   
