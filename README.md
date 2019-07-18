@@ -2,7 +2,7 @@
 Repository with links to meetup presentations and organization docs
 
 # Latest meetup
-* [2019-07-30](events/2019-07-30.md)
+* [2019-08-30](events/2019-08-30.md)
 
 # Planning
 - [ ] Get Location
@@ -14,9 +14,13 @@ Repository with links to meetup presentations and organization docs
   - [ ] Adam Schwartz - @anschwa on slack - indy hackers 
     - `present` tool
     - `replace` directive in modules
+  - [ ] Matt McQuillian
+    - Building a Slack Bot in Golang
   - [ ] Steve McQuaid
     - Dockerizing best practices for Golang
     - How to expose your library quickly (API, CLI, Operator)
     - Baby Got Back...ends - DDD intro/Project layout
+    - My First Operator - Build a Kubernetes Operator
+ 
 - [ ] Get Name Tags
   
