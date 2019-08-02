@@ -12,7 +12,7 @@ Repository with links to meetup presentations and organization docs
 - [ ] Name Tags
 - [ ] Submit AV Ticket for projector
 - [ ] Lightning talks
-  - [ ] [Adam Schwartz](https://github.com/anschwa) - @anschwa on slack - indy hackers 
+  - [X] [Adam Schwartz](https://github.com/anschwa) - @anschwa on slack - indy hackers 
     - `present` tool
     - `replace` directive in modules
     - `modules` panel
@@ -25,3 +25,5 @@ Repository with links to meetup presentations and organization docs
     - How to expose your library quickly (API, CLI, Operator)
     - Baby Got Back...ends - DDD intro/Project layout
     - My First Operator - Build a Kubernetes Operator
+  - [ ] [Doug Wilson](https://github.com/dougwilson)
+    - Error handling in Go vs The World
