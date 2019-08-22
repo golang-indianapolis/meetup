@@ -1,0 +1,2 @@
+# 2019-08-21 String Matching - Matt McQuillan
+Presentation slides can be found here: [Google docs slideshow](https://docs.google.com/presentation/d/10je2jFppqy-n1G4epebPRIpKjdvaYvMp4ADmC1Lgm5M/edit?usp=sharing)
