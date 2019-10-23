@@ -16,7 +16,9 @@
     - [X] Building a Slack Bot in Golang
   - [Nathan Boyd](https://github.com/nathan-boyd)
     - [ ] SQL Server Kubernetes Operator/DDAF
+    - [ ] JSON in Go
   - [Steve McQuaid](https://github.com/stevemcquaid)
+    - [ ] Workshop Golang Basics
     - [ ] Dockerizing best practices for Golang
     - [ ] How to expose your library quickly (API, CLI, Operator)
     - [ ] Baby Got Back...ends - DDD intro/Project layout
