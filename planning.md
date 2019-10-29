@@ -1,27 +1,19 @@
-# Planning
-- [X] Get Location
-  - [X] 1st floor cafe @ salesforce tower
-- [X] Get Food Sponsor
-  - self
-- [ ] Name Tags
-- [x] Submit AV Ticket for projector
-
 # Future talks
 - [ ] Lightning talks
   - [Adam Schwartz](https://github.com/anschwa) - @anschwa on slack - indy hackers 
-    - [X] [Go `present` tool](../presentations/2019-08-21-go-present/README.md)
-    - `replace` directive in modules
-    - `modules` panel
+    - [X] [Go `present` tool](presentations/2019-08-21-go-present/README.md)
+    - [X] [`go modules` / `replace` directive in modules](presentations/2019-10-23-go-modules/README.md)
+    - [ ] `modules` panel
   - [Matt McQuillian](https://github.com/mmcquillan)
-    - [X] Building a Slack Bot in Golang
+    - [X] [String Matching/Slack Bot](presentations/2019-08-21-string-matching/README.md)
   - [Nathan Boyd](https://github.com/nathan-boyd)
+    - [X] [JSON Marshalling in Go](presentations/2019-10-23-json-marshalling/README.md)
     - [ ] SQL Server Kubernetes Operator/DDAF
-    - [ ] JSON in Go
   - [Steve McQuaid](https://github.com/stevemcquaid)
-    - [ ] Workshop Golang Basics
+    - [X] [Workshop - Golang Basics](presentations/2019-10-23-workshop/README.md)
     - [ ] Dockerizing best practices for Golang
     - [ ] How to expose your library quickly (API, CLI, Operator)
     - [ ] Baby Got Back...ends - DDD intro/Project layout
     - [ ] My First Operator - Build a Kubernetes Operator
   - [Doug Wilson](https://github.com/dougwilson)
-    - [ ] Error handling in Go vs The World
+    - [X] [Error handling in Go vs The World](presentations/2019-08-21-error-handling/README.md))

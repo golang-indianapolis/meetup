@@ -1,0 +1,2 @@
+# 2019-10-23 JSON Marshalling - Nathan Boyd
+Presentation slides can be found here: [Google docs slideshow](https://docs.google.com/presentation/d/1PR_Syo92dRafn2s_N--KlUZv06x_0NBjWoijPUrz430/edit#slide=id.g33148270ac_0_143)
